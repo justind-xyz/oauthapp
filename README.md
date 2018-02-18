@@ -34,9 +34,6 @@ Vagrant is the software that configures the VM and lets you share files between 
 **Windows:** Use the Git Bash program (installed with Git) to get a Unix-style terminal.  
 **Other systems:** Use your favorite terminal program.
 
-From the terminal, run:
-
-    git clone https://github.com/udacity/OAuth2.0 oauth
 
 This will give you a directory named **oauth** complete with the source code for the flask application, a vagrantfile, and a bootstrap.sh file for installing all of the necessary tools. 
 
